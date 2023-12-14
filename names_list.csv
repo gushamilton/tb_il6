@@ -1,0 +1,18 @@
+id.outcome,name_formal,Africa,Europe,continent,Cases,Controls
+CHINA1,China 1 (unpublished),,,Asia,483,587
+CHINA2,China 2 (unpublished),,,Asia,1290,1145
+CHINA3,"China, Qi et al",,,Asia,972,1537
+ESTONIA_OMNI,Estonia (unpublished),,1,Europe,239,7047
+GAMBIA,Gambia (WTCCC),1,,Africa,1316,1382
+GERMANY,Germany (unpubished),,1,Europe,586,333
+GHANA,"Ghana, Thye et al ",1,,Africa,1359,1952
+JAPAN,"Japan, Mahasirimongkol et al",,,Asia,751,3199
+RSA1,"South Africa, Daya et al",1,,Africa,19,577
+RUSSIA,"Russia, Curtis et al",,1,Europe,5914,6022
+FinnGen,"Finland, FinnGen",,1,Europe,401,321302
+BBJ,"Japan, BBJ",,,Asia,549,211904
+TB (China),"China, Zheng et al",,,Asia,833,1220
+UKB,"UK, UKBiobank",,1,Europe,2046,418427
+THAILAND,"Thailand, Mahasirimongkol et al",,,Asia,433,295
+RSA2," South Africa, Schurz et al",1,,Africa,410,405
+ELGH," ELGH, South Asia",,,CSA,1701,42487
